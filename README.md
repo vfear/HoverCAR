@@ -24,9 +24,8 @@ DC-DC конвертор для понижения с 15v до 9v.
 
 ST-LINK Utility для заливки модифицированной прошивки в контроллер гироскутера.  
 Ссылка для скачивания https://www.st.com/en/development-tools/stsw-link004.html (необходимо пройти регистрацию)  
-Arduino ide для прошивки контроллера arduino.  
-Ссылка для скачивания https://www.arduino.cc/download_handler.php  
-Файл bin - прошивка для платы гироскутера.  
+Arduino ide для прошивки контроллера arduino https://www.arduino.cc/download_handler.php  
+Файл bin - прошивка для платы гироскутера. https://github.com/vfear/HoverCAR/blob/master/hover.rar  
 Скетч для ардуино. https://github.com/vfear/HoverCAR/blob/master/hover-ide.ino  
 
 Для калибровки пульта - программа T6config. (Добавлю в архив)  
