@@ -3,7 +3,7 @@
 ![alt text](https://user-images.githubusercontent.com/12184628/62303317-94676e80-b484-11e9-9b25-ae05e1663225.GIF)
 ![alt text](https://user-images.githubusercontent.com/12184628/62218568-6404cf00-b3b5-11e9-97c1-1cb046346676.GIF)
 ![alt text](https://user-images.githubusercontent.com/12184628/62214088-02d8fd80-b3ad-11e9-8853-05cbcfa491de.JPG)
-# Компоненты: (ссылки будут внизу)
+# Компоненты: 
 
 Контроллер гироскутера. На процессоре STM32.  
 2 Мотор колеса.  
@@ -14,6 +14,7 @@ DC-DC конвертор для понижения с 15v до 9v.
 Логический преобразователь 5v - 3.3v.  
 Модуль на 2 реле - для поворота руля.  
 Радио Аппаратура с PWM. Я использовал FlySky CT6B. Так же есть возможность изменения чувствительности верхними рычажками. Проверено - проблем нет. С остальными возможны проблемы.  
+(ссылки на данные детали будут внизу, гироскутер можно взять б/у на авито)  
 
 Различные провода dupont пап-мама, мама-мама, папа-папа и просто провода силовые.  
 Разьем для питания ардуино через гнездо.
@@ -116,21 +117,21 @@ Arduino ide для прошивки контроллера arduino https://www.a
 vfear_777@mail.ru для связи
 
 # Ссылки
-ST-Link v2
-https://amperkot.ru/msk/catalog/programmator_stlink_v2_dlya_stm8_stm32-24309549.html
-Arduino
-https://amperkot.ru/msk/catalog/plata_uno_r3__arduinosovmestimaya__usb_kabel-24254833.html
-DC-DC 
-https://tpai.ru/elektropitanie-skhem/preobrazovateli-elektricheskogo-toka/konverter-dc-dc-ponizhayushhij-lm2596
-Логический преобразователь
-https://tpai.ru/provodnye-i-besprovodnye-moduli-obmena-dannymi-rfid/provodnye-protokoly/konverter-urovnya-i2c-5v-33v
-Модуль реле
-https://www.chipdip.ru/product/rdc1-2ra-relay
-Пульт 
-https://rc-go.ru/cat/ct6br6b/
-Штеккер питания Ардуино
-https://tpai.ru/maketirovanie-i-proektirovanie/razyomy/razyom-dlya-krony-so-shtekerom
-Провода
-https://tpai.ru/maketirovanie-i-proektirovanie/soedinitelnye-provoda-i-peremychki/nabor-provodov-dupont-3-vida-po-10-shtuk-20-sm
+ST-Link v2  
+https://amperkot.ru/msk/catalog/programmator_stlink_v2_dlya_stm8_stm32-24309549.html  
+Arduino  
+https://amperkot.ru/msk/catalog/plata_uno_r3__arduinosovmestimaya__usb_kabel-24254833.html  
+DC-DC   
+https://tpai.ru/elektropitanie-skhem/preobrazovateli-elektricheskogo-toka/konverter-dc-dc-ponizhayushhij-lm2596  
+Логический преобразователь  
+https://tpai.ru/provodnye-i-besprovodnye-moduli-obmena-dannymi-rfid/provodnye-protokoly/konverter-urovnya-i2c-5v-33v  
+Модуль реле  
+https://www.chipdip.ru/product/rdc1-2ra-relay  
+Пульт   
+https://rc-go.ru/cat/ct6br6b/  
+Штеккер питания Ардуино  
+https://tpai.ru/maketirovanie-i-proektirovanie/razyomy/razyom-dlya-krony-so-shtekerom  
+Провода  
+https://tpai.ru/maketirovanie-i-proektirovanie/soedinitelnye-provoda-i-peremychki/nabor-provodov-dupont-3-vida-po-10-shtuk-20-sm  
 
 
